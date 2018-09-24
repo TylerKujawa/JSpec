@@ -1,0 +1,19 @@
+{
+  "name": "jspec",
+  "version": "1.0.0",
+  "description": "JSpec helps make jasmine tests cleaner and more readable by following the patterns used in the RSpec library for Ruby.",
+  "main": ".jspec.coffee",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-core": "^3.2.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine spec/helpers.coffee"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
